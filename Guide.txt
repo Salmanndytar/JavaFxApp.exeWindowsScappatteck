@@ -1,0 +1,10 @@
+* Vouz devez executer en tant que administrateur pour fonctionner.
+---------------------------------------------------------------------------------------------------------------------------------
+* Le "mode static" permt la deviation "middle attack (MITM)" attaque de l'home mulie.
+* Le "mode dynamique" Annule le mode static, met tout par defaut
+---------------------------------------------------------------------------------------------------------------------------------
+* La configuration vous demande une plage d'adreesse compris ( x : 192   -   y :  252) ce qui est par défaut.  et une intervalle en minute (par defaut 5 minutes)
+ qui pourrait 'zapper' a chaque x munit ou echapper a l'attaque "Metasploit". Sachez a haque x minte votre machine se reconnecte automatiquement 
+cela fait perdre la connexion  pendant 3 à 5 secondes (exe: certain type telechargement vont s'interrompres). 
+---------------------------------------------------------------------------------------------------------------------------------
+* En cas de vouloir se connecter a un autre routeur(wi-fi) fallait activer le "mode dynamique" sinon vous vous ne pouvez pas se connecter.
