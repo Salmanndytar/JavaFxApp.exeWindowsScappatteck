@@ -1,6 +1,14 @@
 * Vouz devez executer en tant que administrateur pousr fonctioner
-*  Vous devez etre connecter 
-* Votre ;achine etre en français ou en anglais
+* Vous devez etre connecter 
+* Votre machine etre en français ou en anglais
+
+-----------------------------------------------------------------------------------------------------------------------------------
+L'ordre :
+1- configurer la plage  ou laisser  par defaut puis appuyer sur ok
+2- passer en mode dynamique avec bouton blue 
+3- passer en mode statique avec le buttomn rouge (verifier d'abord la machine est connectee!!! ) car elle s'autoreconnecte.
+Vous pouvezs arreter là  et fermer l'application car cela devie "middle attack"
+4- pour s'eviter  à l'attaque "Metasploit" finisser par appuyer sur ok.
 
 ---------------------------------------------------------------------------------------------------------------------------------
 * Le "mode static" permt la deviation "middle attack (MITM)" attaque de l'home mulie.
@@ -13,10 +21,4 @@ cela fait perdre la connexion  pendant 3 à 5 secondes (exe: certain type telech
 * En cas de vouloir se connecter a un autre routeur(wi-fi) fallait activer le "mode dynamique" sinon vous vous ne pouvez pas se connecter.
 
 
------------------------------------------------------------------------------------------------------------------------------------
-L'ordre :
-1- configurer la plage  ou laisser  par defaut puis appuyer sur ok
-2- passer en mode dynamique avec bouton blue
-3- passer en mode statique avec le buttomn rouge
-Vous pouvezs arrer la  et fermer l'application car cela devie "middle attack"
-4- pour s'ev  iter  à l'attaque "Metasploit" finisser par appuyer sur ok.
+
