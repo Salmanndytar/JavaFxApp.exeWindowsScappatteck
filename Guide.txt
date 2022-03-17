@@ -1,4 +1,7 @@
-* Vouz devez executer en tant que administrateur pour fonctionner.
+* Vouz devez executer en tant que administrateur pousr fonctioner
+*  Vous devez etre connecter 
+* Votre ;achine etre en français ou en anglais
+
 ---------------------------------------------------------------------------------------------------------------------------------
 * Le "mode static" permt la deviation "middle attack (MITM)" attaque de l'home mulie.
 * Le "mode dynamique" Annule le mode static, met tout par defaut
@@ -8,3 +11,12 @@
 cela fait perdre la connexion  pendant 3 à 5 secondes (exe: certain type telechargement vont s'interrompres). 
 ---------------------------------------------------------------------------------------------------------------------------------
 * En cas de vouloir se connecter a un autre routeur(wi-fi) fallait activer le "mode dynamique" sinon vous vous ne pouvez pas se connecter.
+
+
+-----------------------------------------------------------------------------------------------------------------------------------
+L'ordre :
+1- configurer la plage  ou laisser  par defaut puis appuyer sur ok
+2- passer en mode dynamique avec bouton blue
+3- passer en mode statique avec le buttomn rouge
+Vous pouvezs arrer la  et fermer l'application car cela devie "middle attack"
+4- pour s'ev  iter  à l'attaque "Metasploit" finisser par appuyer sur ok.
