@@ -5,7 +5,7 @@
 -----------------------------------------------------------------------------------------------------------------------------------
 L'ordre :
 1- configurer la plage  ou laisser  par defaut puis appuyer sur ok
-2- passer en mode dynamique avec bouton blue 
+2- passer en mode dynamique avec bouton blue (verifier d'abord la machine est connectee!!! ) car elle s'autoreconnecte.
 3- passer en mode statique avec le buttomn rouge (verifier d'abord la machine est connectee!!! ) car elle s'autoreconnecte.
 Vous pouvezs arreter là  et fermer l'application car cela devie "middle attack"
 4- pour s'eviter  à l'attaque "Metasploit" finisser par appuyer sur ok.
